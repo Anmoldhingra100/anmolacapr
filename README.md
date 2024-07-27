@@ -4,3 +4,4 @@ To install the Django Framework, the user must write the command on the command 
 
 Mysql command line client can be installed from the mysql Community Server
 
+To access the database the user must mention his/her password in the settings.py file
